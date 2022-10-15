@@ -1,2 +1,8 @@
 # OC
-Organización de Computadoras 2021
+Organización de Computadoras  
+
+Licenciatura en Sistemas  
+
+Universidad Nacional de La Plata  
+
+2021
